@@ -34,6 +34,6 @@ I also added some extra features like square root, square, percentage, and calcu
 - Implementing keyboard input and error handling.
 - Displaying calculation history.
 
-#Author:
+# Author:
 
 Created by Vivek Yadav
