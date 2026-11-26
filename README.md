@@ -36,4 +36,4 @@ I also added some extra features like square root, square, percentage, and calcu
 
 #Author:
 
-Created by Vivek Yadav GitHub:Vivekyx
+Created by Vivek Yadav
